@@ -2,7 +2,7 @@
 ## Инструкция
 1. Клонируем репозиторий в папку www:
 ```sh
-git clone https://github.com/littlePiggy/pgadmin 
+git clone https://github.com/TretyakVictor/pgadmin
 ```
 2. Заходим в папку:
 ```sh
